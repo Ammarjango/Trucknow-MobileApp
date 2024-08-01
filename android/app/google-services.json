@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739422368372",
+    "project_id": "trucknow-dd3e4",
+    "storage_bucket": "trucknow-dd3e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739422368372:android:be1e125afea4c54cb19721",
+        "android_client_info": {
+          "package_name": "com.trucknow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXIWbLS8w1Wdtbiu07r7Ggzu4EbzYnoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
